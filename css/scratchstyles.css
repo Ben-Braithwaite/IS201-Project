@@ -1,0 +1,33 @@
+common {
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body {
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+background-color :whitesmoke;
+text-align:center;
+
+}
+footer{
+    background-color:lightgrey;
+    color:black;
+    height:25px;
+    position: fixed;
+    bottom:5px;
+    right:5px;
+    left:5px;
+}
+ol{
+    list-style-position:inside;
+}
+ul{
+    list-style-position:inside;
+}
+header{
+    font-weight: bold;
+    background-color: rgb(117, 117, 238);
+    height: 40px;
+    left:5px;
+    bottom:5px;
+    right:5px;
+}
+.tableua
